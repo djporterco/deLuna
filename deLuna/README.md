@@ -2,4 +2,4 @@
 
 Hierarchical Clustering for lead shot analysis
 
-![clustering](deLuna/outputs/lead_clusters.png)
+![clustering](outputs/lead_clusters.png)
