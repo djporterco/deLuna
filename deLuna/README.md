@@ -1,8 +1,8 @@
-# Lead Clustering
+# Clustering
 
-Hierarchical Clustering for lead shot analysis
+Hierarchical Clustering for clay shards analysis
 
-![clustering](outputs/lead_clusters.png)
+![clustering](outputs/clusters.png)
 
 
 Item 100 seams to walk it's own path.
